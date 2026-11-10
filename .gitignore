@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+.env
+AGENT_PROGRESS.md
+
+# Node
+node_modules/
+frontend/dist/
+
+# Editors
+.vscode/
+.DS_Store

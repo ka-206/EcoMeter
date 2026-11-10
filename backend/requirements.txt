@@ -1,0 +1,6 @@
+fastapi==0.162.2
+uvicorn==0.54.0
+sqlalchemy==2.1.8
+pymysql==1.2.4
+pydantic[email]==2.14.3
+python-dotenv==1.2.4
